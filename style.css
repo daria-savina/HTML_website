@@ -32,6 +32,7 @@ body {
 
 .main-content_index {
     margin-top:  10px;
+    margin-bottom:  50px;
 }
 .greeting_index {
   margin: 4px;
@@ -39,7 +40,7 @@ body {
   text-transform: uppercase;
   color: rgb(172, 148, 129);
   font-size: 48px;
-
+  padding-bottom: 50px;
 
 }
 
