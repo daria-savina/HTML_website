@@ -26,8 +26,8 @@ body {
 
 
 .main-content {
-  margin-top:  5vh;
-  margin-bottom:  10vh;
+  margin-top:  2vh;
+  margin-bottom:  7vh;
 }
 
 .greeting {
@@ -36,7 +36,7 @@ body {
   text-transform: uppercase;
   color: rgb(172, 148, 129);
   font-size: 48px;
-  padding-bottom:  5vh;
+  padding-bottom:  2vh;
 }
 
 .main-paragraph {
