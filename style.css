@@ -5,7 +5,7 @@
 
 /* overall theme for all pages */
 body {
-  background-color: #364015;
+  background-color: #262D0F;
   color: #f2e3b3;
   font-family: 'Cardo', serif;
   font-size: 16px;
@@ -26,8 +26,8 @@ body {
 
 
 .main-content {
-  margin-top: 5vh;
-  margin-bottom: 5vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
 }
 
 .greeting {
@@ -79,7 +79,6 @@ body {
   border-radius: 10px;
   color: #f2e3b3;
   background-color: #909c6a;
-  opacity: 0.7;
   padding: 2vh;
 }
 
