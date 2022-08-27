@@ -30,7 +30,19 @@ body {
   margin-bottom:  5vh;
 }
 
+.main-content_index {
+  margin-top:  1vh;
+  margin-bottom:  5vh
+}
+.greeting_index {
+  margin: 4px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  color: rgb(172, 148, 129);
+  font-size: 48px;
+  padding-bottom: 50px;
 
+}
 
 .greeting {
   margin: 0;
