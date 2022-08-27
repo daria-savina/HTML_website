@@ -29,7 +29,18 @@ body {
   margin-top:  1vh;
   margin-bottom:  5vh;
 }
-
+.main-content_index {
+  margin-top:  1vh;
+  margin-bottom:  8vh;
+}
+.greeting_index {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  color: rgb(172, 148, 129);
+  font-size: 48px;
+  padding-bottom:  3vh;
+}
 .greeting {
   margin: 0;
   font-family: 'Oswald', sans-serif;
@@ -79,7 +90,7 @@ body {
   border-radius: 10px;
   color: #f2e3b3;
   background-color: #909c6a;
-  padding: 1vh;
+  padding: 2vh;
 }
 
 ul, ol {
