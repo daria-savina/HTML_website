@@ -29,9 +29,10 @@ body {
   margin-top:  1vh;
   margin-bottom:  5vh;
 }
+
 .main-content_index {
-  margin-top:  1vh;
-  margin-bottom:  8vh;
+  margin-top:  3vh;
+  margin-bottom:  5vh;
 }
 .greeting_index {
   margin: 0;
@@ -39,8 +40,9 @@ body {
   text-transform: uppercase;
   color: rgb(172, 148, 129);
   font-size: 48px;
-  padding-bottom:  3vh;
+  padding-bottom:  1vh;
 }
+
 .greeting {
   margin: 0;
   font-family: 'Oswald', sans-serif;
