@@ -26,8 +26,8 @@ body {
 
 
 .main-content {
-  margin-top: 2vh;
-  margin-bottom: 2vh;
+  margin-top: 10%;
+  margin-bottom: 10%;
 }
 
 .greeting {
@@ -36,12 +36,12 @@ body {
   text-transform: uppercase;
   color: rgb(172, 148, 129);
   font-size: 48px;
-  padding-bottom: 2vh;
+  padding-bottom: 10%;
 }
 
 .main-paragraph {
-  padding-left: 8vh;
-  padding-right: 8vh;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .TOP-link {
